@@ -105,7 +105,7 @@
                                
                                 <h4 class="subheading">Company reinventing the space</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">To lead the industry requires the smartest tools built by the brightest minds across engineering, design, and strategy. Through our proprietary platform, Compass is changing how agents and clients navigate the process of finding or selling a home.</p></div>
+                            <div class="timeline-body"><p class="text-muted">Client and agets can easily navigate through the platform and find properties that they love on reasonable prices.</p></div>
                         </div>
                     </li>
                     
